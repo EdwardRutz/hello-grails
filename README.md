@@ -10,7 +10,7 @@
 
 ## Dependencies
 
-- Grails 3.3.8  (11/18/2018)
+- Grails 3.3.8  
 
 
 ## Sources
