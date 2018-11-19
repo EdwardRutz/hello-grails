@@ -6,9 +6,11 @@
 
 ## Notes
 
-- Create a new Grails app at command-line:  `grails create-app hello-grails`
+- Create a new Grails app at command-line type:  `grails create-app hello-grails`
 
+## Dependencies
 
+- Grails 3.3.8  (11/18/2018)
 
 
 ## Sources
