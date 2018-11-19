@@ -6,7 +6,14 @@
 
 ## Notes
 
-- Create a new Grails app at command-line:  `grails create-app README.md`
+- Create a new Grails app at command-line:  `grails create-app hello-grails
+
+
+
+
+## Sources
+
+[Grails.org](https://grails.org/)
 
 
 
