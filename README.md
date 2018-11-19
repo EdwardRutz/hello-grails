@@ -6,7 +6,7 @@
 
 ## Notes
 
-- Create a new Grails app at command-line:  `grails create-app hello-grails
+- Create a new Grails app at command-line:  `grails create-app hello-grails`
 
 
 
